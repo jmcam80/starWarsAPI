@@ -1,0 +1,10 @@
+.jumbotron {
+    z-index: 2;
+    position: absolute;
+    
+};
+
+.swImg {
+    z-index: -1;
+    position:relative;
+}
